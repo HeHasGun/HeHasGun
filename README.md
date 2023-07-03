@@ -1,4 +1,4 @@
-<h1><div align="center">👋, I'm Ken, a full-time Frontend  developer  working remotely since 2021.6 👨‍💻</div></h1>
+<h1><div align="center">👋, I'm Ken, a full-time Frontend  developer  working remotely since 2021.3 👨‍💻</div></h1>
 <br/>  
 <ul>
 <li>
