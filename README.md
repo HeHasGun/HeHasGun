@@ -1,6 +1,10 @@
-### <div align="center">👋, I'm Ken, a full-time Frontend  developer  working remotely since 2021.6 👨‍💻</div>  
+### <div align="center">👋, I'm Ken, a full-time Frontend  developer  working remotely since 2021.6 👨‍💻</div>    
+
+
 - ⚡ I’m Live in Chong Qing, like make friend
-- ⚡I’m currently learning Vue/React/Java...  
+- ⚡I’m currently learning Vue/React/Java...
+
+  
 <br/>  
 ### I will continue to study the following list..
 <table><tr><td valign="top" width="33%">
